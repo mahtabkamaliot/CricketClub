@@ -14,7 +14,7 @@ function PlayerList(props) {
                 <div className='pl-64'>Player List</div>
             </div>
 
-            <div className=' mx-auto'>
+            <div className=' w-10/12 mx-auto'>
                 <Player_list/>
             </div>
 
